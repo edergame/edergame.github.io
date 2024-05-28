@@ -2,7 +2,7 @@
 *edergame.github.io*
 所有Eder所拥有的使用scratch制作的游戏的汇总,并转换成HTML格式发布到网页上,欢迎大家游玩体验!
 # 游戏
-[MC守卫军](edergame.github.io/MC守卫军)
+[MC守卫军](/MC守卫军.html)
 # 鸣谢
 1. **Tommy**主要游戏开发者,提供者
 2. **Eder**网页制作和游戏汇总者
