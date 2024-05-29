@@ -22,5 +22,5 @@
 # 鸣谢
 1. **Tommy**主要游戏开发者,提供者
 2. **Eder**网页制作和游戏汇总者
-3. **[Github](github.com)**提供网页托管服务的可靠平台!
-4. **[TurboWarp Packager](https://packager.turbowarp.org/)**提供scratch项目文件打包HTML文件的服务
+3. [**Github**](github.com)提供网页托管服务的可靠平台!
+4. [**TurboWarp Packager**](https://packager.turbowarp.org/)提供scratch项目文件打包HTML文件的服务
