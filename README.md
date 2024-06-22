@@ -21,8 +21,10 @@
 [自定义跑酷制作器(MC)](/自定义跑酷制作器(MC).html)
 
 [乒乓大作战v1.0](/乒乓大作战v1.0.html)
+
+[phigros(scratch)v1.0](/phigros(scratch)v1.0.html)
 # 鸣谢
 1. **Tommy**主要游戏开发者,提供者
-2. **Eder**网页制作和游戏汇总者
+2. **Eder**网页制作和游戏制作汇总者
 3. [**Github**](https://github.com/)提供网页托管服务的可靠平台!
 4. [**TurboWarp Packager**](https://packager.turbowarp.org/)提供scratch项目文件打包HTML文件的服务
