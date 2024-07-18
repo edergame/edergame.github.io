@@ -24,7 +24,7 @@
 
 [phigros(scratch)v1.0](/phigros(scratch)v1.0.html)
 
-[图片传输测试](/phigros(scratch)v1.0.html) *我为这个骄傲!*
+[图片传输测试](/图片传输.html) *我为这个骄傲!*
 # 鸣谢
 1. **Tommy**主要游戏开发者,提供者
 2. **Eder**网页制作和游戏制作汇总者
